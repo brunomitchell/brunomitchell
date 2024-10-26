@@ -11,9 +11,9 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento na Universidade de Franca  
 
-- 📘 Desenvolvimento Web pela B7WEB  
+- 📘 Cursando Desenvolvimento Web pela B7WEB  
 
-- 💻 Aprendendo TypeScript e React  
+- 💻 Atualmente aprendendo JavaScript e TypeScript  
 
 - 🌍 Evoluindo meu inglês para o mercado tech  
 
