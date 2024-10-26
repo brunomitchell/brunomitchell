@@ -19,6 +19,8 @@
 
 - 💡 Interesses: Colaboração em projetos e aprender com outros desenvolvedores
 
+- 📍 Localização: Coimbra, Portugal  
+
 <h3 align="left">Contacte-Me:</h3>
 <p align="left">
   
