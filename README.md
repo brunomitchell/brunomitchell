@@ -15,7 +15,7 @@
 
 - 💻 Aprendendo TypeScript e React  
 
-- 🌍 Evoluido meu inglês para o mercado tech  
+- 🌍 Evoluindo meu inglês para o mercado tech  
 
 - 💡 Interesses: Colaboração em projetos e aprender com outros desenvolvedores
 
