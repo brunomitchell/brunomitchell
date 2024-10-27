@@ -1,4 +1,7 @@
 
+![Analise e](https://github.com/user-attachments/assets/7860588b-055b-42de-be37-314508194153)
+
+
 <h1 align="center">Olá 👋, Eu sou Bruno Mitchell</h1>
 <h3 align="center">Estudante apaixonado por Desenvolvimento Web</h3>
 
